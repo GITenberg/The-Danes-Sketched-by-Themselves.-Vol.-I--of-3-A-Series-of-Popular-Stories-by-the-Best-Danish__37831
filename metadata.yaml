@@ -1,0 +1,35 @@
+_repo: The-Danes-Sketched-by-Themselves.-Vol.-I--of-3-A-Series-of-Popular-Stories-by-the-Best-Danish__37831
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bushby, Mrs. (Anna S.)
+    aliases:
+    - Bushby, Anna S.
+    - Bushby, Anne S.
+    gutenberg_agent_id: '32044'
+    url: http://www.gutenberg.org/2009/agents/32044
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Danish -- Translations into English'
+- !lcsh 'Fiction'
+- !lcc 'PT'
+tableOfContents: 'Cousin Carl, by Carl Bernhard -- The doomed house, by B.S. Ingemann
+  -- The felon''s reverie -- Morten Lange: a Christmas story, by H.C. Andersen --
+  A tale of Jutland, by S.S. Blicher -- The secret witness, by B.S. Ingemann -- Agnete
+  and the merman, by Jens Baggesen -- A waking dream -- The confessional, by Christian
+  Winther -- The ancestress; or, family pride. From the Swedish of Baroness Knorring
+  -- The man from paradise, by H.C. Andersen.'
+title: "The Danes, Sketched by Themselves. Vol. 1 (of 3)\r\nA Series of Popular Stories\
+  \ by the Best Danish Authors"
+url: http://www.gutenberg.org/ebooks/37831
